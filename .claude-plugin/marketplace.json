@@ -1,0 +1,19 @@
+{
+  "name": "df-haha-plugins",
+  "description": "df-haha 的自訂 Claude Code plugins 集合，包含思考框架與生產力工具",
+  "owner": {
+    "name": "df-haha"
+  },
+  "plugins": [
+    {
+      "name": "first-principles",
+      "description": "第一性原理思考框架 — 基於 Elon Musk 的第一性原理方法論，自動拆解問題到最基本的事實與假設",
+      "version": "1.0.0",
+      "author": {
+        "name": "df-haha"
+      },
+      "source": "./plugins/first-principles",
+      "category": "productivity"
+    }
+  ]
+}
