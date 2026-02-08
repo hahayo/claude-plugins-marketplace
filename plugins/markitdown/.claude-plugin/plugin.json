@@ -1,0 +1,8 @@
+{
+  "name": "markitdown",
+  "version": "1.0.0",
+  "description": "使用 Microsoft MarkItDown 將 PDF、PPT、Word、Excel 等檔案轉換為 Markdown",
+  "author": {
+    "name": "df-haha"
+  }
+}

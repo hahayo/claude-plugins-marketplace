@@ -1,0 +1,4 @@
+# Large binary files
+*.ai
+# Word temp files
+~$*

@@ -19,3 +19,5 @@ claude plugin install first-principles
 | Plugin | 說明 |
 |--------|------|
 | **first-principles** | 第一性原理思考框架 — 基於 Elon Musk 的第一性原理方法論，自動拆解問題到最基本的事實與假設 |
+| **markitdown** | 使用 Microsoft MarkItDown 將 PDF、PPT、Word、Excel 等檔案轉換為 Markdown |
+| **dafon-doc-gen** | 大豐環保品牌文件生成工具 — 產生符合 CIS 規範的 PowerPoint 簡報與 Word 文件 |

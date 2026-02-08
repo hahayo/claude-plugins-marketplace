@@ -1,0 +1,11 @@
+[
+  {
+    "event": "SessionStart",
+    "hooks": [
+      {
+        "type": "command",
+        "command": "pip install -q 'markitdown[all]' 2>/dev/null || true"
+      }
+    ]
+  }
+]

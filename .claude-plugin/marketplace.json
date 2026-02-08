@@ -14,6 +14,22 @@
       },
       "source": "./plugins/first-principles",
       "category": "productivity"
+    },
+    {
+      "name": "markitdown",
+      "description": "使用 Microsoft MarkItDown 將 PDF、PPT、Word、Excel 等檔案轉換為 Markdown",
+      "version": "1.0.0",
+      "author": { "name": "df-haha" },
+      "source": "./plugins/markitdown",
+      "category": "productivity"
+    },
+    {
+      "name": "dafon-doc-gen",
+      "description": "大豐環保品牌文件生成工具 — 產生符合 CIS 規範的 PowerPoint 簡報與 Word 文件",
+      "version": "1.0.0",
+      "author": { "name": "df-haha" },
+      "source": "./plugins/dafon-doc-gen",
+      "category": "productivity"
     }
   ]
 }
